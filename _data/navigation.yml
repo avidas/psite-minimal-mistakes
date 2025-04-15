@@ -4,7 +4,7 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Categories"
-    url: /categories/
+  - title: "Tech"
+    url: /categories/#software
   - title: "Tags"
     url: /tags/
