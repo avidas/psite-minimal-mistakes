@@ -62,24 +62,24 @@ author:
   avatar : "/assets/images/profile_2.png"
   bio    : "Product driven software builder and technical leader. The driving narrative of my career is to make delightful & reliable products that improves the lives of end users. I enjoy working across the stack or enabling others to achieve that."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://new.aviadas.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/avidas"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/avidas"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aviadas/"
-
-footer:
-  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/avidas"
+    - label: "Threads"
+      icon: "fab fa-fw fa-threads"
+      url: "https://www.threads.net/@das.avi"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/avidas"
+
+footer:
+  links:
+    - label: "Threads"
+      icon: "fab fa-fw fa-threads"
+      url: "https://www.threads.net/@das.avi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/avidas"
