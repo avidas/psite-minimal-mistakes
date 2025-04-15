@@ -2,6 +2,10 @@
 title: "My 2024 Favorites: Books, Podcasts and more!"
 date: "2024-09-04"
 comments: true
+categories:
+  - Life
+tags:
+  - Books
 ---
 
 Second year in a row, I wanted to share books, podcasts and other media / art that added a lot of value to my life.

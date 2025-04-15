@@ -2,6 +2,8 @@
 title: "Dhaka Part II: A Symphony of Survival"
 date: "2024-05-14"
 comments: true
+categories:
+  - Life
 ---
 
 The air hung thick and sweet, clinging to my skin like a forgotten memory. The bus lurched forward, a reluctant participant in the city's cacophony. Honking rickshaws weaved between us, their drivers shouting greetings and curses in equal measure. It was sensory overload, a stark contrast to the orchestrated calm of New York City I'd called home for the past seven years. Yet, beneath the surface thrummed a different rhythm – a quiet hum of resilience, a constant innovation born out of necessity. Was this struggle, or a silent symphony of survival?

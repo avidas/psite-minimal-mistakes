@@ -2,6 +2,8 @@
 title: "My 2023 Favorites: Podcasts, Books and more!"
 date: "2024-01-22"
 comments: true
+categories:
+  - Life
 ---
 
 And just like that, 2023 is behind us. I wanted to have some fun and share my picks across media and art this year.

@@ -2,6 +2,8 @@
 title: "The Need to Celebrate Oneself"
 date: "2025-02-12"
 comments: true
+categories:
+  - Life
 ---
 
 ### The Milestone

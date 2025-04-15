@@ -2,6 +2,10 @@
 title: "Improvisation and Self Discovery"
 date: "2023-12-15"
 comments: true
+categories:
+  - Life
+tags:
+  - Improv
 ---
 
 On a whim, I went to hideout theatre in Austin, TX for a improv beginner class a few years back. Over time, I have tried short and long form improv, and tried out musical/rap improv. Having no theatre/stage background, it has been meaningful to me how the lessons learnt from improv apply to life broadly. This year, I've been working out of a plateau in my improv journey which has been particularly illuminating.

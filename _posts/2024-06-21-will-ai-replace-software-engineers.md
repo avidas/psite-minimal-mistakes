@@ -2,6 +2,11 @@
 title: "Will AI Replace Software Engineers?"
 date: "2024-06-21"
 comments: true
+categories:
+  - Software
+tags:
+    - Teams
+    - Programming
 ---
 
 > Humans are notoriously bad at predicting the future, but very resilient at adapting when we must.

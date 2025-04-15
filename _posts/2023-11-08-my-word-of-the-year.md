@@ -2,6 +2,8 @@
 title: "My Word of the Year in 2023"
 date: "2023-11-08"
 comments: true
+categories:
+  - Life
 ---
 
 I'm not a savant at risk taking. I can hedge my opinions and guard my feelings. Perhaps I want to be liked a little much. My need for belonging can make me want to keep the peace at my own detriment.

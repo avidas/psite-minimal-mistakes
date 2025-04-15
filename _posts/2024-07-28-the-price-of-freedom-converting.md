@@ -2,6 +2,8 @@
 title: "The Price of Freedom: Converting Currencies, Converting Mindsets - Part I"
 date: "2024-07-28"
 comments: true
+categories:
+  - Life
 ---
 
 ### Growing Up Middle Class in Dhaka

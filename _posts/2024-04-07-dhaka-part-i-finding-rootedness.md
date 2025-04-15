@@ -2,6 +2,8 @@
 title: "Dhaka Part I: Finding Rootedness"
 date: "2024-04-07"
 comments: true
+categories:
+  - Life
 ---
 
 ### An overdue trip

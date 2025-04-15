@@ -3,7 +3,7 @@ title: "Reflections on WeWork: Relentless Change and Unrealized Potential"
 date: "2022-08-14 17:17:00 -0400"
 comments: true
 categories:
-  - Blog
+  - Tech
 tags:
   - Software
   - Teams
