@@ -5,7 +5,7 @@ title: "🚀 Work with me 🚀"
 
 ## Land that dream FAANG role. Propel your career forward.
 
-I help mid to senior-level software engineers progress their careers by breaking into FAANG companies and advancing professionally.
+I help mid to senior level software engineers progress their careers by breaking into FAANG companies and advancing professionally.
 
 ### Coaching focus
 - **FAANG Interview Mastery**: Comprehensive preparation tailored to elite tech company standards
