@@ -4,6 +4,8 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Coaching"
+    url: /coaching/
   - title: "Tech"
     url: /categories/#software
   - title: "Tags"
