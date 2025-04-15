@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Avi Das"
   avatar : "/assets/images/profile_2.png"
-  bio    : "Product driven software builder and technical leader. The driving narrative of my career is to make delightful & reliable products that improves the lives of end users. I enjoy working across the stack or enabling others to achieve that."
+  bio    : "Product driven software builder and technical leader. The driving narrative of my career is to make delightful & reliable products that improves the lives of end users."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
