@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Lower Degrees of Separation with End Users"
 date: 2018-05-09 10:21
 comments: true

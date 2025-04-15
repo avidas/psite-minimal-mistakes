@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Coffeehouse Coworkers"
 date: 2015-12-31 15:27
 comments: true

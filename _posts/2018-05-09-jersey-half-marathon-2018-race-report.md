@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Jersey Half Marathon 2018: Race Report"
 date: 2018-05-09 10:21
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Building Realtime Apps with React, Socket.io and Node.js"
 date: 2015-09-06 11:16
 comments: true

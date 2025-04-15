@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Evaluating React.js and Flask"
 date: 2015-08-05 10:39
 comments: true

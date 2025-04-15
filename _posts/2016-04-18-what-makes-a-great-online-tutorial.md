@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What makes a great programming tutorial?"
 date: 2016-04-18 05:36
 comments: true

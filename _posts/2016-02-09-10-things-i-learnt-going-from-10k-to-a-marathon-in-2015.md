@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "10 things I learnt going from 10k to a Marathon in 2015"
 date: 2016-02-09 23:28
 comments: true

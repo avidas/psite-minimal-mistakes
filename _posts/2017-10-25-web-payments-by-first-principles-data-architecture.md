@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Web Payments by First Principles: Data Architecture"
 date: 2017-10-25 20:22
 comments: true

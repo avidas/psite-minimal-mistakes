@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Thriving Under Siege"
 date: 2020-04-12 20:17
 comments: true
@@ -17,7 +16,7 @@ There is no how-to manual for this current crisis, so devastating and foreign to
 
 Like many others, I have struggled with being quarantined in my apartment since March. I have immersed myself with the energy and drive that permeates NYC, and losing that has felt like being in withdrawal. At times, it has been a fearsome cocktail of loneliness, helplessness and concern.
 
-![Alone](/images/alone.jpg "Alone")
+![Alone](/assets/images/alone.jpg "Alone")
 
 I am a rational optimist. I like to think that better times can be ahead, but we have to strive towards it.  While my framework of life has been shaken by this crisis, it has yet to be broken, and it has definitely opened up more opportunities for self discovery.
 
@@ -71,4 +70,4 @@ In the same vein, there may be guilt which stems from the nagging feeling that y
 
 Where we will end up is unknown, but isn't that always the case? Existential threats and uncertainty can add a lot of suffering to our lives. Suffering is a side effect of being alive, but it is not where the goalpost is. Choosing to thrive in these times, taking actions that vote towards that direction and continue nurturing our deepest selves are some of the best things we can do in these times. I sincerely hope that manifests for you, dear reader.
 
-![Sunset Alone](/images/sunset_alone.jpg "Sunset Alone")
+![Sunset Alone](/assets/images/sunset_alone.jpg "Sunset Alone")

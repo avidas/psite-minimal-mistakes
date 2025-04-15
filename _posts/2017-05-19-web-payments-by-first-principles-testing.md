@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Web Payments by First Principles: Testing"
 date: 2017-05-19 16:21
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "React Amsterdam 2019: Takeaway"
 date: 2019-04-14 11:16
 comments: true

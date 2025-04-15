@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pycon Canada 2015 II: Python for Reliably Delivering Cross Platform Products"
 date: 2015-11-24 20:41
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Thoughts on button push driven development"
 date: 2019-02-24 09:19
 comments: true
@@ -17,7 +16,7 @@ Lately, I have been very curious about voice as a computing platform and what th
 
 Digging into Alexa skills development has been interesting. While the technical documentation and development for Alexa is quite good, I felt a fair amount of internal resistance during the project. The potential of this new computing platform and the possibilities it will bring kept me going.
 
-![Yes Code](/images/yes_code.jpg "Yes Code")
+![Yes Code](/assets/images/yes_code.jpg "Yes Code")
 
 The building blocks of working with Alexa are intents, utterances and lambda functions. After a series of thirty or so steps of wiring up buttons, copying and moving templates around, setting up attributes gives you a working voice enabled app, upload zip files, deploy it and submit for app review in the Alexa app store. 
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Takeaways from MicroConf Starter 2017"
 date: 2017-04-21 17:55
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Quotes I have loved"
 subtitle: "A running collection of quotes that have stood the test of time."
 date: 2020-05-06 12:51
@@ -65,4 +64,4 @@ It's not something most human beings would give a moment of consideration to, th
 — John L. Parker Jr, Again to Carthage
 
 
-![Breathe](/images/just_breathe.jpg "Breathe")
+![Breathe](/assets/images/just_breathe.jpg "Breathe")

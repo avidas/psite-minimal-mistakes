@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Frame code reviews as gift exchanges"
 date: 2019-03-16 15:04
 comments: true
@@ -13,7 +12,7 @@ The balance of writing code vs everything else that is necessary to be a success
 
 Code reviews are an interesting mix. You have to understand someone else's point of view, their journey through solving a problem in form of code. Or you have to face up to what everyone else thinks about code that you worked hard to write. Those reviews stand in your way of getting your code up to users and getting the emotional payoff from releasing something. The engagement or catharsis from building software is not an available reward when you are in code review mode.
 
-![Code Review](/images/code_review1.jpg "Code Review")
+![Code Review](/assets/images/code_review1.jpg "Code Review")
 
 Moreover, a code review must take into consideration not just the code, but the project, team and the company into consideration.
 

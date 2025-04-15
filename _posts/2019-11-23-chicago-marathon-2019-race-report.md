@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Chicago Marathon 2019 Race Report"
 date: 2019-11-23 17:12
 comments: true
@@ -13,7 +12,7 @@ categories: Running Fitness
 
 For goal races, I usually wake up before the alarm goes off. October 13th was no different. Despite the 3:30 am wakeup, I slept unusally well considering it was the night before the race. I KT taped my foot carefully, which I had to do throughout the training cycle to defend against feet issues. After the usual overpacking of gear check bag, I joined my Dashing Whippet housemates on the train ride to the starting line.
 
-![Pre race](/images/marathon_photos/pre_race.jpg "Pre race")
+![Pre race](/assets/images/marathon_photos/pre_race.jpg "Pre race")
 
 In the race village, I watched the sea of green feet (nike Next %s), and waited till it was time to get to the start line. The race corral was already busy over half hour left before race start. I went through the motions of shedding extra clothing, doing warmups in the cramped environment and holding back the nerves. It was colder than I expected, which wasn’t a bad thing at all. It would stay cool during the whole race, which meant overheating never became an issue.
 
@@ -31,7 +30,7 @@ I got to 5k within the limit without much issues. Chicago is one of the best mar
 
 Then next 5k also went fairly quickly. I have found the miles between 8-12 mentally tough during training and it was definitely no different during race day, injecting some doubt into my race strategy. Every person racing at their limit must battle negative thoughts, there is really no other way.
 
-![Chicago 20k](/images/marathon_photos/chicago_most_photogenic_mp_1.png "Chicago 20k")
+![Chicago 20k](/assets/images/marathon_photos/chicago_most_photogenic_mp_1.png "Chicago 20k")
 
 At 15k, I was able to keep a buffer of over a minute. It wasn’t clear to me whether the pace was sustainable the whole course. I wasn’t looking at the watch until a 5k interval, so there wasn’t much to rely on other than how I felt running. I kept repeating the words in my head.
 
@@ -54,7 +53,7 @@ I crossed 13.1 miles at 1:36:21, well within goal time and feeling well. I was f
 
 The plan was to stay ahead of hydration and nutrition, and it got me very well up to 25k and then onto 30k on pace. Around then my stomach started cramping up, meaning I was no longer able to take in more gels. This is the point of the race when the mental game really begins. I was still holding out hope for a late surge, but it would prove to be wishful thinking.
 
-![Chicago 40k](/images/marathon_photos/chicago_pain_face_mp_1.png "Chicago 40k")
+![Chicago 40k](/assets/images/marathon_photos/chicago_pain_face_mp_1.png "Chicago 40k")
 
 Past 35k, this is where the race got really difficult. Each mile felt like it spun forever and legs felt heavier. This is also the part of the race where the crowd thinned out, so support was few and far between. I felt as though I didn’t have space for either negative or positive thoughts. All of energy and attention was necessary to keep prodding ahead.
 
@@ -88,7 +87,7 @@ I stayed with Dashing Whippets teammates in Chicago, which helped with pre race 
 
 **Post Race**
 
-![Post Race](/images/marathon_photos/chicago_end.jpg "Post Race")
+![Post Race](/assets/images/marathon_photos/chicago_end.jpg "Post Race")
 
 It felt really good after the race. You can hypothesize about a Marathon goal, but it is just a theory until it happens in a race. It vindicated that a lot of things were done right during this training cycle, and revealed areas of improvement necessary to run a stronger Marathon. Marathon is a complex puzzle piece, and all individual components need attention and care to come together on race day.
 

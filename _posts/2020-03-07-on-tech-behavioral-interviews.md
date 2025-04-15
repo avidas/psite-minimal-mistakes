@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mindsets for Tech Behavioral Interviews"
 date: 2020-03-07 13:32
 comments: true
@@ -13,7 +12,7 @@ categories: Tech Interviews Software
 
 You walk into a room with one or two people, who may be taking notes in a notepad or a laptop. The most common starter question is _tell me about yourself_.
 
-![Interview Chair](/images/behavioral_interview.jpg "Interview Chair")
+![Interview Chair](/assets/images/behavioral_interview.jpg "Interview Chair")
 
 This used to be a question I didn't know where to start or end. A possible interpretation of this question is to provide a succinct summary of your career.
 

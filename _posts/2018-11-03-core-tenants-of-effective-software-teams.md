@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Core tenants of highly effective software teams"
 date: 2018-11-03 11:47
 comments: true

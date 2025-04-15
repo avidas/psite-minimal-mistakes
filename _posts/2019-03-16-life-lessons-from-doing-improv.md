@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Life lessons from Improv"
 date: 2019-03-16 15:07
 comments: true
@@ -11,7 +10,7 @@ I think life should be more like improv and improv should resemble life.
 
 On a whim, I went to hideout theatre in Austin, TX for a improv beginner class back in 2016 but I have only been consistently doing improv for the past year. In the process, I have tried short and long form improv, and dabbled in musical/rap improv. Having zero theatre/stage background, it has been amazing to me how the lessons learnt from improv apply to life broadly.
 
-![Improv](/images/improv.jpg "Improv")
+![Improv](/assets/images/improv.jpg "Improv")
 
 1. **Yes, and..**: A 101 on improv would begin with the encouragement to accept whatever the other person is bringing to the scene. We may have a great idea in mind, but the scene is ruined if we do not accept the other person's ideas and bind the scene in a cohesive way. Taking this attitude to life can frame anything in life as a gift. This in turns lends us to be less critical and cynical about our day to day interactions.
 
@@ -38,4 +37,4 @@ An audience is watching an improv scene has a fuller experience when they not on
 
 The beauty of improv is that you don't have to become a great improviser to see the positive effects it can have on your life. Those of us who believe in constant improvement and are interested in living a more examined life and will find improv valuable.
 
-![Improv Last](/images/improv2.jpg "Improv Last")
+![Improv Last](/assets/images/improv2.jpg "Improv Last")

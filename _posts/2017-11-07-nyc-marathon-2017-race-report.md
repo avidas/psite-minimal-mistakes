@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "NYC Marathon 2017: Training and Race Report"
 date: 2017-11-07 09:06
 comments: true
