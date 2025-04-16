@@ -1,6 +1,6 @@
 ---
 permalink: /coaching/
-title: "🚀 Work with me 🚀"
+title: "🚀 Work with me 🚀 "
 ---
 
 ## Land that dream FAANG role. Propel your career forward.
