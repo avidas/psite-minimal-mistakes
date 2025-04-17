@@ -7,6 +7,24 @@ title: "🚀 Work with me 🚀 "
 
 I help mid to senior level software engineers progress their careers by breaking into FAANG companies and advancing professionally.
 
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wm_JouXWn9ckzAmwev_8YKzcUPReKKsDzl0-eO0DelfZ6QQpW0yu44M3NXp4BsIZQhUbBVYdM?gv=true',
+      color: '#039BE5',
+      label: 'Book free consultation 🚀',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+
 ### Coaching focus
 - **FAANG Interview Mastery**: Comprehensive preparation tailored to elite tech company standards
 - **Promotion Acceleration**: Strategic guidance to secure your next level-up
@@ -36,3 +54,21 @@ I'm an experienced software engineer with 12 years at FAANG companies, focused o
 **$160 (45 minutes)**
 - One system design interview practice session
 - Comprehensive detailed feedback
+
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wm_JouXWn9ckzAmwev_8YKzcUPReKKsDzl0-eO0DelfZ6QQpW0yu44M3NXp4BsIZQhUbBVYdM?gv=true',
+      color: '#039BE5',
+      label: 'Book free consultation 🚀',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
