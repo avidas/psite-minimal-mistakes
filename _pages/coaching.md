@@ -28,19 +28,19 @@ Experienced software engineer with 12 years at FAANG companies, focused on build
 ### Coaching Packages
 
 #### 📌 3-Month Plan
-**$300/month**
+**$320/month**
 - Two 45-minute sessions per month
 - Unlimited Q&A support via chat
 - Customized study plan tailored to your needs
 
 #### 📌 6-Month Plan
-**$260/month**
+**$280/month**
 - Two 45-minute sessions per month
 - Unlimited Q&A support via chat
 - Customized study plan tailored to your needs
 - *Save $40/month with our 6-month commitment*
 
 #### 📌 Single Session
-**$160 (45 minutes)**
-- One system design interview practice session
+**$200 (45 minutes)**
+- One system design or coding interview practice session
 - Comprehensive detailed feedback
