@@ -3,27 +3,17 @@ permalink: /coaching/
 title: "🚀 Work with me 🚀 "
 ---
 
-## Land that dream FAANG role. Propel your career forward.
+Accelerate your engineering career with an industry veteran (12+ years at Meta, PayPal, WeWork). I've coached many engineers from stuck to Staff-level and rejected to FAANG-ready. My personalized approach bridges CS theory with practical excellence, even as AI transforms the field.
 
-I help mid to senior level software engineers progress their careers by breaking into FAANG companies and advancing professionally.
+<!-- Cal floating-popup embed code begins -->
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init", "30min", {origin:"https://cal.com"});
 
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wm_JouXWn9ckzAmwev_8YKzcUPReKKsDzl0-eO0DelfZ6QQpW0yu44M3NXp4BsIZQhUbBVYdM?gv=true',
-      color: '#039BE5',
-      label: 'Book free consultation 🚀',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
+  Cal.ns["30min"]("floatingButton", {"calLink":"avidas/30min","config":{"layout":"column_view"},"buttonText":"Book free consultation 🚀","hideButtonIcon":false,"buttonColor":"#4c974c"}); 
+  Cal.ns["30min"]("ui", {"hideEventTypeDetails":false,"layout":"column_view"});
+  </script>
+  <!-- Cal floating-popup embed code ends -->
 
 ### Coaching focus
 - **FAANG Interview Mastery**: Comprehensive preparation tailored to elite tech company standards
@@ -54,21 +44,3 @@ I'm an experienced software engineer with 12 years at FAANG companies, focused o
 **$160 (45 minutes)**
 - One system design interview practice session
 - Comprehensive detailed feedback
-
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wm_JouXWn9ckzAmwev_8YKzcUPReKKsDzl0-eO0DelfZ6QQpW0yu44M3NXp4BsIZQhUbBVYdM?gv=true',
-      color: '#039BE5',
-      label: 'Book free consultation 🚀',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
