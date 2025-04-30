@@ -23,7 +23,7 @@ Cal("init", "30min", {origin:"https://cal.com"});
 My approach combines technical expertise with proven communication strategies, helping you articulate your value and achievements effectively in top companies.
 
 ## About Me
-I'm an experienced software engineer with 12 years at FAANG companies, focused on building delightful and reliable products that improve users' lives. My background spans consumer-facing products and platform/API/data infrastructure across payments, financial analytics, network infrastructure, and workplace technologies.
+Experienced software engineer with 12 years at FAANG companies, focused on building reliable and scalable products that improve users' lives. My background spans consumer-facing products and platform/API/data infrastructure across payments, financial analytics, network infrastructure, and workplace technologies.
 
 ### Coaching Packages
 
